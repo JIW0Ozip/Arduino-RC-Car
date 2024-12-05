@@ -68,4 +68,6 @@ Arduino, Android Studio
 
 # 추가 이미지
 
+
+https://github.com/user-attachments/assets/c1319b62-5934-4835-8ce1-d706aeaff7bc
 (수정할 것)
