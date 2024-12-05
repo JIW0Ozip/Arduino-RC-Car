@@ -46,7 +46,7 @@ Arduino, Android Studio
 - RC 프레임 몸체
 - 보조바퀴 (2쌍)
 - RC카 DC기어모드모터 2개
--  바퀴힐 2개
+-  바퀴휠 2개
 -  L293D MOTOR SHIELD OR L911OS SHIELD
 - 아두이노 우노
 - AAx4개 배터리 케이스 배터리 홀더 6V 아두이노
