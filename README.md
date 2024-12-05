@@ -69,5 +69,4 @@ Arduino, Android Studio
 # 추가 이미지
 
 
-<img src="https://github.com/user-attachments/assets/c1319b62-5934-4835-8ce1-d706aeaff7bc"/>
-(수정할 것)
+<img width="300px" height="300px" src="https://github.com/user-attachments/assets/c1319b62-5934-4835-8ce1-d706aeaff7bc"/>
