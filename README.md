@@ -70,3 +70,5 @@ Arduino, Android Studio
 
 
 <img width="300px" height="300px" src="https://github.com/user-attachments/assets/c1319b62-5934-4835-8ce1-d706aeaff7bc"/>
+![299144920-5655faf5-e006-4cdb-859e-e2ac33fad2fe](https://github.com/user-attachments/assets/b8615148-f91e-4d1f-8338-fd53685dd7a8)
+
