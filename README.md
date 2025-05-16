@@ -70,6 +70,4 @@ Arduino, Android Studio
 
 
 <img width="300px" height="300px" src="https://github.com/user-attachments/assets/c1319b62-5934-4835-8ce1-d706aeaff7bc"/>
-![아두이노rc카코드](https://github.com/user-attachments/assets/e1ae5b23-e9c6-4522-8e4f-1b64c551f641)
-
-
+<img width="300px" height="300px" src="https://github.com/user-attachments/assets/e1ae5b23-e9c6-4522-8e4f-1b64c551f641"/>
